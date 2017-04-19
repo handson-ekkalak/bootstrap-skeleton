@@ -9,7 +9,7 @@ Install with GitHub
 
 ## Built With
 
-* [Bootstrap v3.3.7](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web
+* [Bootstrap v3.3.7](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [jQuery](https://github.com/jquery/jquery) - New Wave JavaScript.
 * [jQuery-UI](https://github.com/components/jqueryui) - jQuery user interface library.
 * [jQuery-Validation](https://github.com/jquery-validation/jquery-validation) - Form validation made easy.
