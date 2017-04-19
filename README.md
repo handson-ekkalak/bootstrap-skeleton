@@ -3,10 +3,10 @@ Use this skeleton application to quickly setup and start working on a new Bootst
 
 ## Installation
 
-GitHub
+Install with GitHub
 
-`$ git clone https://github.com/handson-ekkalak/test-bootstrap.git folder-name`
+`git clone https://github.com/handson-ekkalak/test-bootstrap.git folder-name`
 
-Bower
+Install with Bower
 
-`$ bower install test-bootstrap`
+`bower install test-bootstrap`
